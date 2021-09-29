@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Form</title>
+  <title>Survey</title>
 </head>
 <body>
 <h1>Медицинская история </h1>
